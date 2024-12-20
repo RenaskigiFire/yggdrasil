@@ -1,0 +1,3 @@
+controllers:
+    resource: /var/www/html/yggdrasil/src/Infrastructure/Entrypoint/Controller
+    type: attribute
